@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "team_id": "1385542",
+  "results": {
+    "clean": {
+      "lift_pot": {
+        "attempts": 100,
+        "successes": 37
+      },
+      "hanging_mug": {
+        "attempts": 100,
+        "successes": 15
+      },
+      "stack_bowls_three": {
+        "attempts": 100,
+        "successes": 36
+      },
+      "scan_object": {
+        "attempts": 100,
+        "successes": 59
+      },
+      "handover_block": {
+        "attempts": 100,
+        "successes": 23
+      },
+      "click_bell": {
+        "attempts": 100,
+        "successes": 97
+      },
+      "put_object_cabinet": {
+        "attempts": 100,
+        "successes": 16
+      },
+      "open_microwave": {
+        "attempts": 100,
+        "successes": 11
+      },
+      "stack_blocks_three": {
+        "attempts": 100,
+        "successes": 38
+      },
+      "place_shoe": {
+        "attempts": 100,
+        "successes": 63
+      },
+      "adjust_bottle": {
+        "attempts": 100,
+        "successes": 100
+      },
+      "beat_block_hammer": {
+        "attempts": 100,
+        "successes": 54
+      },
+      "blocks_ranking_rgb": {
+        "attempts": 100,
+        "successes": 65
+      },
+      "blocks_ranking_size": {
+        "attempts": 100,
+        "successes": 50
+      },
+      "click_alarmclock": {
+        "attempts": 100,
+        "successes": 22
+      },
+      "dump_bin_bigbin": {
+        "attempts": 100,
+        "successes": 83
+      },
+      "grab_roller": {
+        "attempts": 100,
+        "successes": 100
+      },
+      "handover_mic": {
+        "attempts": 100,
+        "successes": 58
+      },
+      "move_can_pot": {
+        "attempts": 100,
+        "successes": 70
+      },
+      "move_pillbottle_pad": {
+        "attempts": 100,
+        "successes": 53
+      },
+      "move_playingcard_away": {
+        "attempts": 100,
+        "successes": 94
+      },
+      "place_cans_plasticbox": {
+        "attempts": 100,
+        "successes": 11
+      },
+      "place_container_plate": {
+        "attempts": 100,
+        "successes": 88
+      },
+      "place_dual_shoes": {
+        "attempts": 100,
+        "successes": 47
+      },
+      "place_empty_cup": {
+        "attempts": 100,
+        "successes": 94
+      },
+      "place_fan": {
+        "attempts": 100,
+        "successes": 22
+      },
+      "place_mouse_pad": {
+        "attempts": 100,
+        "successes": 50
+      },
+      "place_object_basket": {
+        "attempts": 100,
+        "successes": 76
+      },
+      "place_object_scale": {
+        "attempts": 100,
+        "successes": 71
+      },
+      "place_object_stand": {
+        "attempts": 100,
+        "successes": 84
+      },
+      "place_phone_stand": {
+        "attempts": 100,
+        "successes": 49
+      },
+      "move_stapler_pad": {
+        "attempts": 100,
+        "successes": 12
+      },
+      "open_laptop": {
+        "attempts": 100,
+        "successes": 92
+      },
+      "pick_diverse_bottles": {
+        "attempts": 100,
+        "successes": 59
+      },
+      "pick_dual_bottles": {
+        "attempts": 100,
+        "successes": 70
+      },
+      "place_a2b_left": {
+        "attempts": 100,
+        "successes": 52
+      },
+      "place_a2b_right": {
+        "attempts": 100,
+        "successes": 50
+      },
+      "place_bread_basket": {
+        "attempts": 100,
+        "successes": 65
+      },
+      "place_bread_skillet": {
+        "attempts": 100,
+        "successes": 58
+      },
+      "place_burger_fries": {
+        "attempts": 100,
+        "successes": 88
+      },
+      "place_can_basket": {
+        "attempts": 100,
+        "successes": 54
+      },
+      "press_stapler": {
+        "attempts": 100,
+        "successes": 99
+      },
+      "rotate_qrcode": {
+        "attempts": 100,
+        "successes": 66
+      },
+      "shake_bottle_horizontally": {
+        "attempts": 100,
+        "successes": 99
+      },
+      "shake_bottle": {
+        "attempts": 100,
+        "successes": 98
+      },
+      "stack_blocks_two": {
+        "attempts": 100,
+        "successes": 83
+      },
+      "stack_bowls_two": {
+        "attempts": 100,
+        "successes": 73
+      },
+      "stamp_seal": {
+        "attempts": 100,
+        "successes": 36
+      },
+      "turn_switch": {
+        "attempts": 100,
+        "successes": 64
+      },
+      "put_bottles_dustbin": {
+        "attempts": 100,
+        "successes": 10
+      }
+    },
+    "randomized": {
+      "lift_pot": {
+        "attempts": 100,
+        "successes": 0
+      },
+      "hanging_mug": {
+        "attempts": 100,
+        "successes": 2
+      },
+      "stack_bowls_three": {
+        "attempts": 100,
+        "successes": 9
+      },
+      "scan_object": {
+        "attempts": 100,
+        "successes": 37
+      },
+      "handover_block": {
+        "attempts": 100,
+        "successes": 0
+      },
+      "click_bell": {
+        "attempts": 100,
+        "successes": 92
+      },
+      "put_object_cabinet": {
+        "attempts": 100,
+        "successes": 11
+      },
+      "open_microwave": {
+        "attempts": 100,
+        "successes": 16
+      },
+      "stack_blocks_three": {
+        "attempts": 100,
+        "successes": 7
+      },
+      "place_shoe": {
+        "attempts": 100,
+        "successes": 52
+      },
+      "adjust_bottle": {
+        "attempts": 100,
+        "successes": 62
+      },
+      "beat_block_hammer": {
+        "attempts": 100,
+        "successes": 10
+      },
+      "blocks_ranking_rgb": {
+        "attempts": 100,
+        "successes": 27
+      },
+      "blocks_ranking_size": {
+        "attempts": 100,
+        "successes": 6
+      },
+      "click_alarmclock": {
+        "attempts": 100,
+        "successes": 70
+      },
+      "dump_bin_bigbin": {
+        "attempts": 100,
+        "successes": 53
+      },
+      "grab_roller": {
+        "attempts": 100,
+        "successes": 76
+      },
+      "handover_mic": {
+        "attempts": 100,
+        "successes": 4
+      },
+      "move_can_pot": {
+        "attempts": 100,
+        "successes": 3
+      },
+      "move_pillbottle_pad": {
+        "attempts": 100,
+        "successes": 5
+      },
+      "move_playingcard_away": {
+        "attempts": 100,
+        "successes": 46
+      },
+      "place_cans_plasticbox": {
+        "attempts": 100,
+        "successes": 14
+      },
+      "place_container_plate": {
+        "attempts": 100,
+        "successes": 46
+      },
+      "place_dual_shoes": {
+        "attempts": 100,
+        "successes": 13
+      },
+      "place_empty_cup": {
+        "attempts": 100,
+        "successes": 35
+      },
+      "place_fan": {
+        "attempts": 100,
+        "successes": 5
+      },
+      "place_mouse_pad": {
+        "attempts": 100,
+        "successes": 8
+      },
+      "place_object_basket": {
+        "attempts": 100,
+        "successes": 30
+      },
+      "place_object_scale": {
+        "attempts": 100,
+        "successes": 23
+      },
+      "place_object_stand": {
+        "attempts": 100,
+        "successes": 55
+      },
+      "place_phone_stand": {
+        "attempts": 100,
+        "successes": 8
+      },
+      "move_stapler_pad": {
+        "attempts": 100,
+        "successes": 3
+      },
+      "open_laptop": {
+        "attempts": 100,
+        "successes": 9
+      },
+      "pick_diverse_bottles": {
+        "attempts": 100,
+        "successes": 9
+      },
+      "pick_dual_bottles": {
+        "attempts": 100,
+        "successes": 24
+      },
+      "place_a2b_left": {
+        "attempts": 100,
+        "successes": 24
+      },
+      "place_a2b_right": {
+        "attempts": 100,
+        "successes": 24
+      },
+      "place_bread_basket": {
+        "attempts": 100,
+        "successes": 46
+      },
+      "place_bread_skillet": {
+        "attempts": 100,
+        "successes": 29
+      },
+      "place_burger_fries": {
+        "attempts": 100,
+        "successes": 75
+      },
+      "place_can_basket": {
+        "attempts": 100,
+        "successes": 19
+      },
+      "press_stapler": {
+        "attempts": 100,
+        "successes": 86
+      },
+      "rotate_qrcode": {
+        "attempts": 100,
+        "successes": 6
+      },
+      "shake_bottle_horizontally": {
+        "attempts": 100,
+        "successes": 95
+      },
+      "shake_bottle": {
+        "attempts": 100,
+        "successes": 92
+      },
+      "stack_blocks_two": {
+        "attempts": 100,
+        "successes": 42
+      },
+      "stack_bowls_two": {
+        "attempts": 100,
+        "successes": 29
+      },
+      "stamp_seal": {
+        "attempts": 100,
+        "successes": 6
+      },
+      "turn_switch": {
+        "attempts": 100,
+        "successes": 15
+      },
+      "put_bottles_dustbin": {
+        "attempts": 100,
+        "successes": 6
+      }
+    }
+  }
+}
