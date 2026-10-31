@@ -64,6 +64,21 @@
 4. 评测：`bash eval.sh serve <checkpoint> 13400`，另开终端 `bash eval.sh run <task> <setting> 13400 100`
 5. 汇总：`results/results.json` 由逐回合 `episodes.jsonl` 汇总生成
 
+## Release 附件
+
+2026-10-21 的打包材料、评测结果与队友交接包已作为 GitHub Release 附件提供：
+
+https://github.com/zxyymx213253830-glitch/lingbot-c2-submission/releases/tag/c2-20261021
+
+| 附件 | 内容 |
+|---|---|
+| `lingbot-c2-shared-data-20261021.zip` | C2 共享数据断点恢复版完整包 |
+| `lingbot-state-noise-gripper-20261019.zip` | 10-19 状态扰动 / 夹爪加权迭代版 |
+| `lingbot-eval-20261026.tgz` | 10-26 评测结果包 |
+| `lingbot-teammate-package-20261026.zip` | 转交队友的材料包 |
+
+完整的 `初赛提交材料.zip`（约 25 GB）与 6B 权重（约 23.8 GB）超过 GitHub Release 单附件 2 GB 限制，未上传；需要时请联系队伍。
+
 ## 关于权重
 
 6B 参数的 FP32 checkpoint 约 **23.8 GB**（6 个 safetensors 分片 + tokenizer/processor），超出 Git 仓库承载范围，未包含在本仓库中。需要权重请联系队伍，或从赛事的模型托管位置获取。
